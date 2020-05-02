@@ -1,0 +1,10 @@
+$TTL 3600
+@  86400   CH   SOA   ns1.0716211.nasa. ny40ny40ny.cs07.nctu.edu.tw.(
+		2020042900  ;serial
+		3600       ;
+		3600       ;retry
+		604800     ;expire
+		86400    ) ;minimun
+;
+@	CH NS 10.113.50.1
+version.bind.	CH TXT "Name Server 1"
